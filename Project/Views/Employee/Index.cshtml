@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Domain.Models.GetAllSP>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <a asp-action="Create" class="btn btn-primary">Create</a>
+    <thead>
+        <tr>
+            <td>
+                @Html.DisplayNameFor(Model => Model.Id)
+            </td>
+            <td>
+                @Html.DisplayNameFor(Model => Model.FullName)
+            </td>
+            <td>
+                @Html.DisplayNameFor(Model => Model.Address)
+            </td>
+            <td>
+                @Html.DisplayNameFor(Model => Model.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayNameFor(Model => Model.Age)
+            </td>
+            <td>
+                @Html.DisplayNameFor(Model => Model.Department)
+            </td>
+            <td>
+                @Html.DisplayNameFor(Model => Model.FileUrl)
+
+            </td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfBirth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Department)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FileUrl)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id=@item.Id class="btn btn-sm btn-secondary">Edit</a>
+                    <a asp-action="Details" asp-route-id=@item.Id class="btn btn-sm btn-secondary">Details</a>
+
+                    <form asp-action="Delete" asp-route-id="@item.Id">
+                        <button class="btn btn-sm btn-danger" onclick="return confirm('Are you sure to delete @item.Id?')">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

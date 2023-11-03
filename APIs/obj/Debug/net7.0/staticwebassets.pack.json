@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Project\\APIs\\wwwroot\\NewFolder\\DataFile\\Final Table of Content .pdf",
+      "PackagePath": "staticwebassets\\NewFolder\\DataFile\\Final Table of Content .pdf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Project\\APIs\\wwwroot\\NewFolder\\DataFile\\Img.PNG",
+      "PackagePath": "staticwebassets\\NewFolder\\DataFile\\Img.PNG"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Project\\APIs\\wwwroot\\NewFolder\\DataFile\\Screenshot (2).png",
+      "PackagePath": "staticwebassets\\NewFolder\\DataFile\\Screenshot (2).png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Project\\APIs\\wwwroot\\NewFolder\\DataFile\\cassse.PNG",
+      "PackagePath": "staticwebassets\\NewFolder\\DataFile\\cassse.PNG"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Project\\APIs\\wwwroot\\NewFolder\\DataFile\\dddfd.PNG",
+      "PackagePath": "staticwebassets\\NewFolder\\DataFile\\dddfd.PNG"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Project\\APIs\\wwwroot\\NewFolder\\DataFile\\finals dfd.PNG",
+      "PackagePath": "staticwebassets\\NewFolder\\DataFile\\finals dfd.PNG"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Project\\APIs\\wwwroot\\NewFolder\\desktop.ini",
+      "PackagePath": "staticwebassets\\NewFolder\\desktop.ini"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.APIs.props",
+      "PackagePath": "build\\APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.APIs.props",
+      "PackagePath": "buildMultiTargeting\\APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.APIs.props",
+      "PackagePath": "buildTransitive\\APIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

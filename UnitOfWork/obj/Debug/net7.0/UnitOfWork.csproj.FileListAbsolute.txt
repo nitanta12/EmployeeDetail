@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\bin\Debug\net7.0\UnitOfWork.deps.json
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\bin\Debug\net7.0\UnitOfWork.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\bin\Debug\net7.0\UnitOfWork.dll
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\bin\Debug\net7.0\UnitOfWork.pdb
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\bin\Debug\net7.0\Domain.dll
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\bin\Debug\net7.0\Domain.pdb
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.dll
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\refint\UnitOfWork.dll
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.pdb
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\UnitOfWork.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Project\UnitOfWork\obj\Debug\net7.0\ref\UnitOfWork.dll

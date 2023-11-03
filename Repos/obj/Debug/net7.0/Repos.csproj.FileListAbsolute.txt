@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Project\Repos\bin\Debug\net7.0\Repos.deps.json
+C:\Users\LENOVO\source\repos\Project\Repos\bin\Debug\net7.0\Repos.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Project\Repos\bin\Debug\net7.0\Repos.dll
+C:\Users\LENOVO\source\repos\Project\Repos\bin\Debug\net7.0\Repos.pdb
+C:\Users\LENOVO\source\repos\Project\Repos\bin\Debug\net7.0\Domain.dll
+C:\Users\LENOVO\source\repos\Project\Repos\bin\Debug\net7.0\Domain.pdb
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.dll
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\refint\Repos.dll
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.pdb
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\Repos.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Project\Repos\obj\Debug\net7.0\ref\Repos.dll
